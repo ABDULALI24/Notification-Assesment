@@ -1,3 +1,7 @@
+![2024-01-29 (2)](https://github.com/ABDULALI24/Notification-Assesment/assets/128752429/e4e288d0-2434-4776-b026-503902806f98)
+![2024-01-29 (1)](https://github.com/ABDULALI24/Notification-Assesment/assets/128752429/b4ca3980-feca-4cf1-9c6a-d29c8b145d99)
+
+
 Web Notification System: An ASP.NET Core Application
 
 This repository contains the source code for a web application developed using ASP.NET Core and C#. The application features a notification system that interacts with a SQL Server database.
@@ -9,9 +13,8 @@ The application displays a notification icon on the top right corner of the scre
 Features
 
 - Display of notification count
-- Detailed view of notifications on click
-- Mark notifications as read (Stretch Goal)
-- Delete notifications from the menu (Stretch Goal)
+- Mark notifications as read just by Clicking to It.
+
 
 Technologies Used
 
